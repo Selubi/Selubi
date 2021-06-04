@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Selubi
-- 👀 I’m interested in consumer technology, especially PC building!
-- 🌱 I’m currently learning about machine learning in university!
+An international student ~~stranded~~ studying in Japan in Kwansei Gakuin University.
+Currently learning machine learning.
+Interested in competitive programming and consumer hardware, PC.
+Gaming as a stress relieve and hobby.
 
 <!---
 Selubi/Selubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
