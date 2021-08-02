@@ -1,4 +1,4 @@
-An international student ~~stranded~~ studying in Japan in Kwansei Gakuin University.
+An international student ~~stranded~~ studying in Japan.
 Currently learning machine learning.
 Interested in competitive programming and consumer hardware, PC.
 Gaming as a stress relieve and hobby.
