@@ -1,5 +1,4 @@
-An international student ~~stranded~~ studying in Japan.
-Currently learning machine learning.
+An IT Infrastructure Engineer in Japan.
 Interested in competitive programming and consumer hardware, PC.
 Gaming as a stress relieve and hobby.
 
