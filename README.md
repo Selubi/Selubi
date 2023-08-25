@@ -2,7 +2,7 @@ An IT Infrastructure Engineer in Japan.
 Interested in competitive programming and consumer hardware, PC.
 Gaming as a stress relieve and hobby.
 
-# [My Notes](notes.selubi.tech)
+### [My Notes](notes.selubi.tech)
 
 
 <!---
